@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+genesis_env/
+
+# Training logs
+logs/
+runs/
+wandb/
+
+# Videos
+videos/
+*.mp4
+*.avi
+
+# Secrets
+.env
+*.key
+
+# OS
+.DS_Store
